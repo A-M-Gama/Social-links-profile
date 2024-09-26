@@ -13,22 +13,17 @@ body {
     color:white;
 }
 
-.top {
-    height:50%;
-}
-
 .central {
     display: flex;
     justify-content: center;
     align-items: center;
     position: relative;
     height: 100%;
-    width: auto;
 }
 
 .card {
     background-color:hsl(0, 0%, 12%);
-    width: 30%;
+    min-width: 30%;
 }
 
 img {
