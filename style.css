@@ -63,6 +63,5 @@ section button {
 
 /* Hover effect */
 section button:hover {
-    background-color: #767b80;
+    background-color: hsl(75, 94%, 57%);
 }
-
