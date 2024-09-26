@@ -47,6 +47,7 @@ h3 {
 
 section {
     margin-bottom: 2rem; /* space between the buttons and the bottom of the card */
+    text-align: center;
 }
 
 section button {
