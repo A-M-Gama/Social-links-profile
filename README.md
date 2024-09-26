@@ -12,4 +12,5 @@ A simple page with the social links of a fictional character with hover effects 
 
 **How to access the project:**
 
-https://social-links-profile-swxxwrss7-a-m-gamas-projects.vercel.app/
+[Social links profile
+](https://social-links-profile-orpin-pi.vercel.app/)
