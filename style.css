@@ -24,6 +24,7 @@ body {
 .card {
     background-color:hsl(0, 0%, 12%);
     min-width: 33%;
+    text-align: center;
 }
 
 img {
@@ -47,7 +48,6 @@ h3 {
 
 section {
     margin-bottom: 2rem; /* space between the buttons and the bottom of the card */
-    text-align: center;
 }
 
 section button {
